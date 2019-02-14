@@ -1,0 +1,26 @@
+body{
+    background: #ff609e ;
+}
+#myid{
+    color: gold;
+}
+.myclass{
+    color:blue;
+}
+#myid2.myclass{
+    font-weight: bold;
+}
+.myclass
+mysuperclass{
+    text-decoration: underline;
+}
+#myid4.myclass.mysuperclass{
+    background: aqua;
+}
+body{font-size: 30px}
+.main h1{
+    color:darkolivegreen;
+}
+input[name="text2"]{
+    border: 3px dotted #ff0000;
+}

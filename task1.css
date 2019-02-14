@@ -1,0 +1,7 @@
+div{
+    border: 30px solid #40c4c8;
+    padding: 20px;
+
+    -webkit-border-image: url("44.JPG");
+
+}

@@ -1,0 +1,16 @@
+body {
+    background: bisque;
+}
+h1{
+    font-family: "Bernard MT Condensed";
+    color: darkgray;
+    font-size: 100px;
+    text-decoration: aliceblue;
+}
+hr{
+    color: gold;
+    size: A3;
+}
+title{
+    src: url("44.JPG");
+}
